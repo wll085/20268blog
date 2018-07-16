@@ -1,13 +1,4 @@
 # 20268blog
-
-# 完成作业 
-  1. 在GitHub上创建一个库 ✔
-  2. 创建README.md ✔
-  3. 使用hugo搭建一个博客 ✔
-  4. 使用Dockerfile把博客打包成一个镜像 ✔
-  5. build.sh ✔
-  6. run.sh ✔
-  7. 日报 ✔
   
 ## 完成的流程
   1. 在Github上创建一个带README.md文件的空仓库
