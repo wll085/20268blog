@@ -16,5 +16,5 @@
   4. 使用Dockerfile把博客打包为镜像
   5. 创建相应的build.sh和run.sh文件
   6. 把Dockerfile和build.sh、run.sh以及使用的hugo包一起拷贝到仓库目录下。
-  7. 在仓库那里打开git bash，执行命令sh build.sh，build成功以后执行命令sh run.sh，出来运行容器的名字就表示你已经run成功了，在网页上输入   http://192.168.99.100:1313/即可访问建立的博客
+  7. 在仓库那里打开git bash，执行命令sh build.sh，build成功以后执行命令sh run.sh，出来运行容器的名字就表示你已经run成功了，在网页上输入   http://192.168.99.100:1313/ 即可访问建立的博客
   8. 把博客push到GitHub就大功告成了  
